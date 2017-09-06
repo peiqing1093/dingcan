@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	list-style: none;
+}
+.header{
+	width: 1000px;
+	height: 200px;
+	margin: auto;
+}
+#header-left{
+	width: 650px;
+	background-color: red;
+	float: left;
+}
+#header-right{
+	width: 350px;
+	background-color: black;
+	float: left;
+}
+#logo img{
+	width: 180px;
+	height: 80px;
+}
